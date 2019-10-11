@@ -1,0 +1,108 @@
+.thumbil-1{
+    display: inline-block;
+    margin-left:50px;
+    width: 400px;
+    height:400px;
+}
+.thumbil-flag{
+    display: inline-block;
+    margin-left:145px;
+    width: 150px;
+    height:150px;
+}
+.product-container{
+        background: #171a29;
+        padding: 30px;
+        color:white;
+}
+.product-indicator,
+.product-place,
+.product-details{
+        margin-left:80px;
+        margin-top: 20px;
+}
+.table{
+    text-align: center;
+    color:white;
+    border: none;
+}
+.flag{
+    border: 1px solid white;
+    width:450px;
+    padding: 30px;
+}
+.card-top1{
+    display: inline;
+    position: absolute;
+    margin-left:-15px;
+    margin-top:-20px;
+}
+.thumbil4{
+     background:#171a29;
+     border:none;
+    display: inline-block;
+    margin-left:0px;
+    margin-right: 0px;
+    text-align: left;
+    width: 80px;
+    height:50px;
+}
+body {
+    background:white;
+}
+.offer-heading {
+    padding-left: 100px;
+}
+
+.offer-container {
+    padding: 10px;
+}
+
+.offer-layout {
+    background-color: white;
+}
+
+.offer-row {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #005062;
+    color: white;
+}
+
+.offer-log {
+    width: 400px;
+    height: 200px;
+    float: right;
+}
+
+.offer-btn {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+.btnOffer {
+    border: none;
+    padding: 10px;
+    width: 100%;
+    font-size: 20px;
+}
+
+.btn1,
+.btn1:hover {
+    background: #ec6f5b;
+}
+
+.btn2,
+.btn2:hover {
+    background: blueviolet;
+}
+
+.btn3,
+.btn3:hover {
+    background: brown;
+}
+
+.mdOffer {
+    margin: 2px;
+    padding: 20px;
+}

@@ -1,0 +1,52 @@
+body{
+    background: #ec6f5b;
+}
+.offer1{
+    background: #ec6f5b;
+}
+.offer-heading{
+    padding-left:100px; 
+}
+.offer-container{
+    padding: 10px;
+}
+.offer-layout{
+    background-color: white;
+}
+.offer-row{
+    margin-top:20px; 
+    padding: 10px;
+    background-color:#005062;
+    color:white;
+}
+.offer-log{
+    width: 400px;
+    height: 200px;
+    float: right;
+}
+.offer-btn {
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.btnOffer{
+    border:none;
+    padding: 10px;
+    width:100%;
+    font-size: 20px;
+}
+.btn1,
+.btn1:hover{
+    background: #ec6f5b;
+}
+.btn2,
+.btn2:hover {
+    background: blueviolet;
+}
+.btn3,
+.btn3:hover {
+    background: brown;
+}
+.mdOffer{
+    margin: 2px;
+    padding: 20px;
+}

@@ -1,0 +1,18 @@
+.fluid{
+    width:200px;
+    height: 200px;
+}
+.multiple-items {
+    padding-top: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    background: #3B286A;
+}
+.fluid1{
+    display: inline-block;
+    margin-top:0px;
+     width:200px;
+     height: 200px;
+}
